@@ -1,0 +1,3062 @@
+Testing the 1th sample: 
+Not hit
+Testing the 2th sample: 
+Not hit
+Testing the 3th sample: 
+Not hit
+Testing the 4th sample: 
+Not hit
+Testing the 5th sample: 
+Not hit
+Testing the 6th sample: 
+Not hit
+Testing the 7th sample: 
+Not hit
+Testing the 8th sample: 
+Not hit
+Testing the 9th sample: 
+Not hit
+Testing the 10th sample: 
+Not hit
+Testing the 11th sample: 
+Not hit
+Testing the 12th sample: 
+Not hit
+Testing the 13th sample: 
+Not hit
+Testing the 14th sample: 
+Not hit
+Testing the 15th sample: 
+Not hit
+Testing the 16th sample: 
+Not hit
+Testing the 17th sample: 
+Not hit
+Testing the 18th sample: 
+Not hit
+Testing the 19th sample: 
+Not hit
+Testing the 20th sample: 
+Not hit
+Testing the 21th sample: 
+Not hit
+Testing the 22th sample: 
+Not hit
+Testing the 23th sample: 
+Not hit
+Testing the 24th sample: 
+Not hit
+Testing the 25th sample: 
+Not hit
+Testing the 26th sample: 
+Not hit
+Testing the 27th sample: 
+Not hit
+Testing the 28th sample: 
+Not hit
+Testing the 29th sample: 
+Not hit
+Testing the 30th sample: 
+Not hit
+Testing the 31th sample: 
+Not hit
+Testing the 32th sample: 
+Not hit
+Testing the 33th sample: 
+Not hit
+Testing the 34th sample: 
+Not hit
+Testing the 35th sample: 
+Not hit
+Testing the 36th sample: 
+Not hit
+Testing the 37th sample: 
+Not hit
+Testing the 38th sample: 
+Not hit
+Testing the 39th sample: 
+Not hit
+Testing the 40th sample: 
+Not hit
+Testing the 41th sample: 
+Not hit
+Testing the 42th sample: 
+Not hit
+Testing the 43th sample: 
+Not hit
+Testing the 44th sample: 
+Not hit
+Testing the 45th sample: 
+Not hit
+Testing the 46th sample: 
+Not hit
+Testing the 47th sample: 
+Not hit
+Testing the 48th sample: 
+Not hit
+Testing the 49th sample: 
+Not hit
+Testing the 50th sample: 
+Not hit
+Testing the 51th sample: 
+Not hit
+Testing the 52th sample: 
+Not hit
+Testing the 53th sample: 
+Not hit
+Testing the 54th sample: 
+Not hit
+Testing the 55th sample: 
+Not hit
+Testing the 56th sample: 
+Not hit
+Testing the 57th sample: 
+Not hit
+Testing the 58th sample: 
+Not hit
+Testing the 59th sample: 
+Not hit
+Testing the 60th sample: 
+Not hit
+Testing the 61th sample: 
+Not hit
+Testing the 62th sample: 
+Not hit
+Testing the 63th sample: 
+Not hit
+Testing the 64th sample: 
+Not hit
+Testing the 65th sample: 
+Not hit
+Testing the 66th sample: 
+Not hit
+Testing the 67th sample: 
+Not hit
+Testing the 68th sample: 
+Not hit
+Testing the 69th sample: 
+Not hit
+Testing the 70th sample: 
+Not hit
+Testing the 71th sample: 
+Not hit
+Testing the 72th sample: 
+Not hit
+Testing the 73th sample: 
+Not hit
+Testing the 74th sample: 
+Not hit
+Testing the 75th sample: 
+Not hit
+Testing the 76th sample: 
+Not hit
+Testing the 77th sample: 
+Not hit
+Testing the 78th sample: 
+Not hit
+Testing the 79th sample: 
+Not hit
+Testing the 80th sample: 
+Not hit
+Testing the 81th sample: 
+Not hit
+Testing the 82th sample: 
+Not hit
+Testing the 83th sample: 
+Not hit
+Testing the 84th sample: 
+Not hit
+Testing the 85th sample: 
+Not hit
+Testing the 86th sample: 
+Not hit
+Testing the 87th sample: 
+Not hit
+Testing the 88th sample: 
+Not hit
+Testing the 89th sample: 
+Not hit
+Testing the 90th sample: 
+Not hit
+Testing the 91th sample: 
+Not hit
+Testing the 92th sample: 
+Not hit
+Testing the 93th sample: 
+Not hit
+Testing the 94th sample: 
+Not hit
+Testing the 95th sample: 
+Not hit
+Testing the 96th sample: 
+Not hit
+Testing the 97th sample: 
+Not hit
+Testing the 98th sample: 
+Not hit
+Testing the 99th sample: 
+Not hit
+Testing the 100th sample: 
+Not hit
+Testing the 101th sample: 
+Not hit
+Testing the 102th sample: 
+Not hit
+Testing the 103th sample: 
+Not hit
+Testing the 104th sample: 
+Not hit
+Testing the 105th sample: 
+Not hit
+Testing the 106th sample: 
+Not hit
+Testing the 107th sample: 
+Not hit
+Testing the 108th sample: 
+Not hit
+Testing the 109th sample: 
+Not hit
+Testing the 110th sample: 
+Not hit
+Testing the 111th sample: 
+Not hit
+Testing the 112th sample: 
+Not hit
+Testing the 113th sample: 
+Not hit
+Testing the 114th sample: 
+Not hit
+Testing the 115th sample: 
+Not hit
+Testing the 116th sample: 
+Not hit
+Testing the 117th sample: 
+Not hit
+Testing the 118th sample: 
+Not hit
+Testing the 119th sample: 
+Not hit
+Testing the 120th sample: 
+Not hit
+Testing the 121th sample: 
+Not hit
+Testing the 122th sample: 
+Not hit
+Testing the 123th sample: 
+Not hit
+Testing the 124th sample: 
+Not hit
+Testing the 125th sample: 
+Not hit
+Testing the 126th sample: 
+Not hit
+Testing the 127th sample: 
+Not hit
+Testing the 128th sample: 
+Not hit
+Testing the 129th sample: 
+Not hit
+Testing the 130th sample: 
+Not hit
+Testing the 131th sample: 
+Not hit
+Testing the 132th sample: 
+Not hit
+Testing the 133th sample: 
+Not hit
+Testing the 134th sample: 
+Not hit
+Testing the 135th sample: 
+Not hit
+Testing the 136th sample: 
+Not hit
+Testing the 137th sample: 
+Not hit
+Testing the 138th sample: 
+Not hit
+Testing the 139th sample: 
+Not hit
+Testing the 140th sample: 
+Not hit
+Testing the 141th sample: 
+Not hit
+Testing the 142th sample: 
+Not hit
+Testing the 143th sample: 
+Not hit
+Testing the 144th sample: 
+Not hit
+Testing the 145th sample: 
+Not hit
+Testing the 146th sample: 
+Not hit
+Testing the 147th sample: 
+Not hit
+Testing the 148th sample: 
+Not hit
+Testing the 149th sample: 
+Not hit
+Testing the 150th sample: 
+Not hit
+Testing the 151th sample: 
+Not hit
+Testing the 152th sample: 
+Not hit
+Testing the 153th sample: 
+Not hit
+Testing the 154th sample: 
+Not hit
+Testing the 155th sample: 
+Not hit
+Testing the 156th sample: 
+Not hit
+Testing the 157th sample: 
+Not hit
+Testing the 158th sample: 
+Not hit
+Testing the 159th sample: 
+Not hit
+Testing the 160th sample: 
+Not hit
+Testing the 161th sample: 
+Not hit
+Testing the 162th sample: 
+Not hit
+Testing the 163th sample: 
+Not hit
+Testing the 164th sample: 
+Not hit
+Testing the 165th sample: 
+Not hit
+Testing the 166th sample: 
+Not hit
+Testing the 167th sample: 
+Not hit
+Testing the 168th sample: 
+Not hit
+Testing the 169th sample: 
+Not hit
+Testing the 170th sample: 
+Not hit
+Testing the 171th sample: 
+Not hit
+Testing the 172th sample: 
+Not hit
+Testing the 173th sample: 
+Not hit
+Testing the 174th sample: 
+Not hit
+Testing the 175th sample: 
+Not hit
+Testing the 176th sample: 
+Not hit
+Testing the 177th sample: 
+Not hit
+Testing the 178th sample: 
+Not hit
+Testing the 179th sample: 
+Not hit
+Testing the 180th sample: 
+Not hit
+Testing the 181th sample: 
+Not hit
+Testing the 182th sample: 
+Not hit
+Testing the 183th sample: 
+Not hit
+Testing the 184th sample: 
+Not hit
+Testing the 185th sample: 
+Not hit
+Testing the 186th sample: 
+Not hit
+Testing the 187th sample: 
+Not hit
+Testing the 188th sample: 
+Not hit
+Testing the 189th sample: 
+Not hit
+Testing the 190th sample: 
+Not hit
+Testing the 191th sample: 
+Not hit
+Testing the 192th sample: 
+Not hit
+Testing the 193th sample: 
+Not hit
+Testing the 194th sample: 
+Not hit
+Testing the 195th sample: 
+Not hit
+Testing the 196th sample: 
+Not hit
+Testing the 197th sample: 
+Not hit
+Testing the 198th sample: 
+Not hit
+Testing the 199th sample: 
+Not hit
+Testing the 200th sample: 
+Not hit
+Testing the 201th sample: 
+Not hit
+Testing the 202th sample: 
+Not hit
+Testing the 203th sample: 
+Not hit
+Testing the 204th sample: 
+Not hit
+Testing the 205th sample: 
+Not hit
+Testing the 206th sample: 
+Not hit
+Testing the 207th sample: 
+Not hit
+Testing the 208th sample: 
+Not hit
+Testing the 209th sample: 
+Not hit
+Testing the 210th sample: 
+Not hit
+Testing the 211th sample: 
+Not hit
+Testing the 212th sample: 
+Not hit
+Testing the 213th sample: 
+Not hit
+Testing the 214th sample: 
+Not hit
+Testing the 215th sample: 
+Not hit
+Testing the 216th sample: 
+Not hit
+Testing the 217th sample: 
+Not hit
+Testing the 218th sample: 
+Not hit
+Testing the 219th sample: 
+Not hit
+Testing the 220th sample: 
+Not hit
+Testing the 221th sample: 
+Not hit
+Testing the 222th sample: 
+Not hit
+Testing the 223th sample: 
+Not hit
+Testing the 224th sample: 
+Not hit
+Testing the 225th sample: 
+Not hit
+Testing the 226th sample: 
+Not hit
+Testing the 227th sample: 
+Not hit
+Testing the 228th sample: 
+Not hit
+Testing the 229th sample: 
+Not hit
+Testing the 230th sample: 
+Not hit
+Testing the 231th sample: 
+Not hit
+Testing the 232th sample: 
+Not hit
+Testing the 233th sample: 
+Not hit
+Testing the 234th sample: 
+Not hit
+Testing the 235th sample: 
+Not hit
+Testing the 236th sample: 
+Not hit
+Testing the 237th sample: 
+Not hit
+Testing the 238th sample: 
+Not hit
+Testing the 239th sample: 
+Not hit
+Testing the 240th sample: 
+Not hit
+Testing the 241th sample: 
+Not hit
+Testing the 242th sample: 
+Not hit
+Testing the 243th sample: 
+Not hit
+Testing the 244th sample: 
+Not hit
+Testing the 245th sample: 
+Not hit
+Testing the 246th sample: 
+Not hit
+Testing the 247th sample: 
+Not hit
+Testing the 248th sample: 
+Not hit
+Testing the 249th sample: 
+Not hit
+Testing the 250th sample: 
+Not hit
+Testing the 251th sample: 
+Not hit
+Testing the 252th sample: 
+Not hit
+Testing the 253th sample: 
+Not hit
+Testing the 254th sample: 
+Not hit
+Testing the 255th sample: 
+Not hit
+Testing the 256th sample: 
+Not hit
+Testing the 257th sample: 
+Not hit
+Testing the 258th sample: 
+Not hit
+Testing the 259th sample: 
+Not hit
+Testing the 260th sample: 
+Not hit
+Testing the 261th sample: 
+Not hit
+Testing the 262th sample: 
+Not hit
+Testing the 263th sample: 
+Not hit
+Testing the 264th sample: 
+Not hit
+Testing the 265th sample: 
+Not hit
+Testing the 266th sample: 
+Not hit
+Testing the 267th sample: 
+Not hit
+Testing the 268th sample: 
+Not hit
+Testing the 269th sample: 
+Not hit
+Testing the 270th sample: 
+Not hit
+Testing the 271th sample: 
+Not hit
+Testing the 272th sample: 
+Not hit
+Testing the 273th sample: 
+Not hit
+Testing the 274th sample: 
+Not hit
+Testing the 275th sample: 
+Not hit
+Testing the 276th sample: 
+Not hit
+Testing the 277th sample: 
+Not hit
+Testing the 278th sample: 
+Not hit
+Testing the 279th sample: 
+Not hit
+Testing the 280th sample: 
+Not hit
+Testing the 281th sample: 
+Not hit
+Testing the 282th sample: 
+Not hit
+Testing the 283th sample: 
+Not hit
+Testing the 284th sample: 
+Not hit
+Testing the 285th sample: 
+Not hit
+Testing the 286th sample: 
+Not hit
+Testing the 287th sample: 
+Not hit
+Testing the 288th sample: 
+Not hit
+Testing the 289th sample: 
+Not hit
+Testing the 290th sample: 
+Not hit
+Testing the 291th sample: 
+Not hit
+Testing the 292th sample: 
+Not hit
+Testing the 293th sample: 
+Not hit
+Testing the 294th sample: 
+Not hit
+Testing the 295th sample: 
+Not hit
+Testing the 296th sample: 
+Not hit
+Testing the 297th sample: 
+Not hit
+Testing the 298th sample: 
+Not hit
+Testing the 299th sample: 
+Not hit
+Testing the 300th sample: 
+Not hit
+Testing the 301th sample: 
+Not hit
+Testing the 302th sample: 
+Not hit
+Testing the 303th sample: 
+Not hit
+Testing the 304th sample: 
+Not hit
+Testing the 305th sample: 
+Not hit
+Testing the 306th sample: 
+Not hit
+Testing the 307th sample: 
+Not hit
+Testing the 308th sample: 
+Not hit
+Testing the 309th sample: 
+Not hit
+Testing the 310th sample: 
+Not hit
+Testing the 311th sample: 
+Not hit
+Testing the 312th sample: 
+Not hit
+Testing the 313th sample: 
+Not hit
+Testing the 314th sample: 
+Not hit
+Testing the 315th sample: 
+Not hit
+Testing the 316th sample: 
+Not hit
+Testing the 317th sample: 
+Not hit
+Testing the 318th sample: 
+Not hit
+Testing the 319th sample: 
+Not hit
+Testing the 320th sample: 
+Not hit
+Testing the 321th sample: 
+Not hit
+Testing the 322th sample: 
+Not hit
+Testing the 323th sample: 
+Not hit
+Testing the 324th sample: 
+Not hit
+Testing the 325th sample: 
+Not hit
+Testing the 326th sample: 
+Not hit
+Testing the 327th sample: 
+Not hit
+Testing the 328th sample: 
+Not hit
+Testing the 329th sample: 
+Not hit
+Testing the 330th sample: 
+Not hit
+Testing the 331th sample: 
+Not hit
+Testing the 332th sample: 
+Not hit
+Testing the 333th sample: 
+Not hit
+Testing the 334th sample: 
+Not hit
+Testing the 335th sample: 
+Not hit
+Testing the 336th sample: 
+Not hit
+Testing the 337th sample: 
+Not hit
+Testing the 338th sample: 
+Not hit
+Testing the 339th sample: 
+Not hit
+Testing the 340th sample: 
+Not hit
+Testing the 341th sample: 
+Not hit
+Testing the 342th sample: 
+Not hit
+Testing the 343th sample: 
+Not hit
+Testing the 344th sample: 
+Not hit
+Testing the 345th sample: 
+Not hit
+Testing the 346th sample: 
+Not hit
+Testing the 347th sample: 
+Not hit
+Testing the 348th sample: 
+Not hit
+Testing the 349th sample: 
+Not hit
+Testing the 350th sample: 
+Not hit
+Testing the 351th sample: 
+Not hit
+Testing the 352th sample: 
+Not hit
+Testing the 353th sample: 
+Not hit
+Testing the 354th sample: 
+Not hit
+Testing the 355th sample: 
+Not hit
+Testing the 356th sample: 
+Not hit
+Testing the 357th sample: 
+Not hit
+Testing the 358th sample: 
+Not hit
+Testing the 359th sample: 
+Not hit
+Testing the 360th sample: 
+Not hit
+Testing the 361th sample: 
+Not hit
+Testing the 362th sample: 
+Not hit
+Testing the 363th sample: 
+Not hit
+Testing the 364th sample: 
+Not hit
+Testing the 365th sample: 
+Not hit
+Testing the 366th sample: 
+Not hit
+Testing the 367th sample: 
+Not hit
+Testing the 368th sample: 
+Not hit
+Testing the 369th sample: 
+Not hit
+Testing the 370th sample: 
+Not hit
+Testing the 371th sample: 
+Not hit
+Testing the 372th sample: 
+Not hit
+Testing the 373th sample: 
+Not hit
+Testing the 374th sample: 
+Not hit
+Testing the 375th sample: 
+Not hit
+Testing the 376th sample: 
+Not hit
+Testing the 377th sample: 
+Not hit
+Testing the 378th sample: 
+Not hit
+Testing the 379th sample: 
+Not hit
+Testing the 380th sample: 
+Not hit
+Testing the 381th sample: 
+Not hit
+Testing the 382th sample: 
+Not hit
+Testing the 383th sample: 
+Not hit
+Testing the 384th sample: 
+Not hit
+Testing the 385th sample: 
+Not hit
+Testing the 386th sample: 
+Not hit
+Testing the 387th sample: 
+Not hit
+Testing the 388th sample: 
+Not hit
+Testing the 389th sample: 
+Not hit
+Testing the 390th sample: 
+Not hit
+Testing the 391th sample: 
+Not hit
+Testing the 392th sample: 
+Not hit
+Testing the 393th sample: 
+Not hit
+Testing the 394th sample: 
+Not hit
+Testing the 395th sample: 
+Not hit
+Testing the 396th sample: 
+Not hit
+Testing the 397th sample: 
+Not hit
+Testing the 398th sample: 
+Not hit
+Testing the 399th sample: 
+Not hit
+Testing the 400th sample: 
+Not hit
+Testing the 401th sample: 
+Not hit
+Testing the 402th sample: 
+Not hit
+Testing the 403th sample: 
+Not hit
+Testing the 404th sample: 
+Not hit
+Testing the 405th sample: 
+Not hit
+Testing the 406th sample: 
+Not hit
+Testing the 407th sample: 
+Not hit
+Testing the 408th sample: 
+Not hit
+Testing the 409th sample: 
+Not hit
+Testing the 410th sample: 
+Not hit
+Testing the 411th sample: 
+Not hit
+Testing the 412th sample: 
+Not hit
+Testing the 413th sample: 
+Not hit
+Testing the 414th sample: 
+Not hit
+Testing the 415th sample: 
+Not hit
+Testing the 416th sample: 
+Not hit
+Testing the 417th sample: 
+Not hit
+Testing the 418th sample: 
+Not hit
+Testing the 419th sample: 
+Not hit
+Testing the 420th sample: 
+Not hit
+Testing the 421th sample: 
+Not hit
+Testing the 422th sample: 
+Not hit
+Testing the 423th sample: 
+Not hit
+Testing the 424th sample: 
+Not hit
+Testing the 425th sample: 
+Not hit
+Testing the 426th sample: 
+Not hit
+Testing the 427th sample: 
+Not hit
+Testing the 428th sample: 
+Not hit
+Testing the 429th sample: 
+Not hit
+Testing the 430th sample: 
+Not hit
+Testing the 431th sample: 
+Not hit
+Testing the 432th sample: 
+Not hit
+Testing the 433th sample: 
+Not hit
+Testing the 434th sample: 
+Not hit
+Testing the 435th sample: 
+Not hit
+Testing the 436th sample: 
+Not hit
+Testing the 437th sample: 
+Not hit
+Testing the 438th sample: 
+Not hit
+Testing the 439th sample: 
+Not hit
+Testing the 440th sample: 
+Not hit
+Testing the 441th sample: 
+Not hit
+Testing the 442th sample: 
+Not hit
+Testing the 443th sample: 
+Not hit
+Testing the 444th sample: 
+Not hit
+Testing the 445th sample: 
+Not hit
+Testing the 446th sample: 
+Not hit
+Testing the 447th sample: 
+Not hit
+Testing the 448th sample: 
+Not hit
+Testing the 449th sample: 
+Not hit
+Testing the 450th sample: 
+Not hit
+Testing the 451th sample: 
+Not hit
+Testing the 452th sample: 
+Not hit
+Testing the 453th sample: 
+Not hit
+Testing the 454th sample: 
+Not hit
+Testing the 455th sample: 
+Not hit
+Testing the 456th sample: 
+Not hit
+Testing the 457th sample: 
+Not hit
+Testing the 458th sample: 
+Not hit
+Testing the 459th sample: 
+Not hit
+Testing the 460th sample: 
+Not hit
+Testing the 461th sample: 
+Not hit
+Testing the 462th sample: 
+Not hit
+Testing the 463th sample: 
+Not hit
+Testing the 464th sample: 
+Not hit
+Testing the 465th sample: 
+Not hit
+Testing the 466th sample: 
+Not hit
+Testing the 467th sample: 
+Not hit
+Testing the 468th sample: 
+Not hit
+Testing the 469th sample: 
+Not hit
+Testing the 470th sample: 
+Not hit
+Testing the 471th sample: 
+Not hit
+Testing the 472th sample: 
+Not hit
+Testing the 473th sample: 
+Not hit
+Testing the 474th sample: 
+Not hit
+Testing the 475th sample: 
+Not hit
+Testing the 476th sample: 
+Not hit
+Testing the 477th sample: 
+Not hit
+Testing the 478th sample: 
+Not hit
+Testing the 479th sample: 
+Not hit
+Testing the 480th sample: 
+Not hit
+Testing the 481th sample: 
+Not hit
+Testing the 482th sample: 
+Not hit
+Testing the 483th sample: 
+Not hit
+Testing the 484th sample: 
+Not hit
+Testing the 485th sample: 
+Not hit
+Testing the 486th sample: 
+Not hit
+Testing the 487th sample: 
+Not hit
+Testing the 488th sample: 
+Not hit
+Testing the 489th sample: 
+Not hit
+Testing the 490th sample: 
+Not hit
+Testing the 491th sample: 
+Not hit
+Testing the 492th sample: 
+Not hit
+Testing the 493th sample: 
+Not hit
+Testing the 494th sample: 
+Not hit
+Testing the 495th sample: 
+Not hit
+Testing the 496th sample: 
+Not hit
+Testing the 497th sample: 
+Not hit
+Testing the 498th sample: 
+Not hit
+Testing the 499th sample: 
+Not hit
+Testing the 500th sample: 
+Not hit
+Testing the 501th sample: 
+Not hit
+Testing the 502th sample: 
+Not hit
+Testing the 503th sample: 
+Not hit
+Testing the 504th sample: 
+Not hit
+Testing the 505th sample: 
+Not hit
+Testing the 506th sample: 
+Not hit
+Testing the 507th sample: 
+Not hit
+Testing the 508th sample: 
+Not hit
+Testing the 509th sample: 
+Not hit
+Testing the 510th sample: 
+Not hit
+Testing the 511th sample: 
+Not hit
+Testing the 512th sample: 
+Not hit
+Testing the 513th sample: 
+Not hit
+Testing the 514th sample: 
+Not hit
+Testing the 515th sample: 
+Not hit
+Testing the 516th sample: 
+Not hit
+Testing the 517th sample: 
+Not hit
+Testing the 518th sample: 
+Not hit
+Testing the 519th sample: 
+Not hit
+Testing the 520th sample: 
+Not hit
+Testing the 521th sample: 
+Not hit
+Testing the 522th sample: 
+Not hit
+Testing the 523th sample: 
+Not hit
+Testing the 524th sample: 
+Not hit
+Testing the 525th sample: 
+Not hit
+Testing the 526th sample: 
+Not hit
+Testing the 527th sample: 
+Not hit
+Testing the 528th sample: 
+Not hit
+Testing the 529th sample: 
+Not hit
+Testing the 530th sample: 
+Not hit
+Testing the 531th sample: 
+Not hit
+Testing the 532th sample: 
+Not hit
+Testing the 533th sample: 
+Not hit
+Testing the 534th sample: 
+Not hit
+Testing the 535th sample: 
+Not hit
+Testing the 536th sample: 
+Not hit
+Testing the 537th sample: 
+Not hit
+Testing the 538th sample: 
+Not hit
+Testing the 539th sample: 
+Not hit
+Testing the 540th sample: 
+Not hit
+Testing the 541th sample: 
+Not hit
+Testing the 542th sample: 
+Not hit
+Testing the 543th sample: 
+Not hit
+Testing the 544th sample: 
+Not hit
+Testing the 545th sample: 
+Not hit
+Testing the 546th sample: 
+Not hit
+Testing the 547th sample: 
+Not hit
+Testing the 548th sample: 
+Not hit
+Testing the 549th sample: 
+Not hit
+Testing the 550th sample: 
+Not hit
+Testing the 551th sample: 
+Not hit
+Testing the 552th sample: 
+Not hit
+Testing the 553th sample: 
+Not hit
+Testing the 554th sample: 
+Not hit
+Testing the 555th sample: 
+Not hit
+Testing the 556th sample: 
+Not hit
+Testing the 557th sample: 
+Not hit
+Testing the 558th sample: 
+Not hit
+Testing the 559th sample: 
+Not hit
+Testing the 560th sample: 
+Not hit
+Testing the 561th sample: 
+Not hit
+Testing the 562th sample: 
+Not hit
+Testing the 563th sample: 
+Not hit
+Testing the 564th sample: 
+Not hit
+Testing the 565th sample: 
+Not hit
+Testing the 566th sample: 
+Not hit
+Testing the 567th sample: 
+Not hit
+Testing the 568th sample: 
+Not hit
+Testing the 569th sample: 
+Not hit
+Testing the 570th sample: 
+Not hit
+Testing the 571th sample: 
+Not hit
+Testing the 572th sample: 
+Not hit
+Testing the 573th sample: 
+Not hit
+Testing the 574th sample: 
+Not hit
+Testing the 575th sample: 
+Not hit
+Testing the 576th sample: 
+Not hit
+Testing the 577th sample: 
+Not hit
+Testing the 578th sample: 
+Not hit
+Testing the 579th sample: 
+Not hit
+Testing the 580th sample: 
+Not hit
+Testing the 581th sample: 
+Not hit
+Testing the 582th sample: 
+Not hit
+Testing the 583th sample: 
+Not hit
+Testing the 584th sample: 
+Not hit
+Testing the 585th sample: 
+Not hit
+Testing the 586th sample: 
+Not hit
+Testing the 587th sample: 
+Not hit
+Testing the 588th sample: 
+Not hit
+Testing the 589th sample: 
+Not hit
+Testing the 590th sample: 
+Not hit
+Testing the 591th sample: 
+Not hit
+Testing the 592th sample: 
+Not hit
+Testing the 593th sample: 
+Not hit
+Testing the 594th sample: 
+Not hit
+Testing the 595th sample: 
+Not hit
+Testing the 596th sample: 
+Not hit
+Testing the 597th sample: 
+Not hit
+Testing the 598th sample: 
+Not hit
+Testing the 599th sample: 
+Not hit
+Testing the 600th sample: 
+Not hit
+Testing the 601th sample: 
+Not hit
+Testing the 602th sample: 
+Not hit
+Testing the 603th sample: 
+Not hit
+Testing the 604th sample: 
+Not hit
+Testing the 605th sample: 
+Not hit
+Testing the 606th sample: 
+Not hit
+Testing the 607th sample: 
+Not hit
+Testing the 608th sample: 
+Not hit
+Testing the 609th sample: 
+Not hit
+Testing the 610th sample: 
+Not hit
+Testing the 611th sample: 
+Not hit
+Testing the 612th sample: 
+Not hit
+Testing the 613th sample: 
+Not hit
+Testing the 614th sample: 
+Not hit
+Testing the 615th sample: 
+Not hit
+Testing the 616th sample: 
+Not hit
+Testing the 617th sample: 
+Not hit
+Testing the 618th sample: 
+Not hit
+Testing the 619th sample: 
+Not hit
+Testing the 620th sample: 
+Not hit
+Testing the 621th sample: 
+Not hit
+Testing the 622th sample: 
+Not hit
+Testing the 623th sample: 
+Not hit
+Testing the 624th sample: 
+Not hit
+Testing the 625th sample: 
+Not hit
+Testing the 626th sample: 
+Not hit
+Testing the 627th sample: 
+Not hit
+Testing the 628th sample: 
+Not hit
+Testing the 629th sample: 
+Not hit
+Testing the 630th sample: 
+Not hit
+Testing the 631th sample: 
+Not hit
+Testing the 632th sample: 
+Not hit
+Testing the 633th sample: 
+Not hit
+Testing the 634th sample: 
+Not hit
+Testing the 635th sample: 
+Not hit
+Testing the 636th sample: 
+Not hit
+Testing the 637th sample: 
+Not hit
+Testing the 638th sample: 
+Not hit
+Testing the 639th sample: 
+Not hit
+Testing the 640th sample: 
+Not hit
+Testing the 641th sample: 
+Not hit
+Testing the 642th sample: 
+Not hit
+Testing the 643th sample: 
+Not hit
+Testing the 644th sample: 
+Not hit
+Testing the 645th sample: 
+Not hit
+Testing the 646th sample: 
+Not hit
+Testing the 647th sample: 
+Not hit
+Testing the 648th sample: 
+Not hit
+Testing the 649th sample: 
+Not hit
+Testing the 650th sample: 
+Not hit
+Testing the 651th sample: 
+Not hit
+Testing the 652th sample: 
+Not hit
+Testing the 653th sample: 
+Not hit
+Testing the 654th sample: 
+Not hit
+Testing the 655th sample: 
+Not hit
+Testing the 656th sample: 
+Not hit
+Testing the 657th sample: 
+Not hit
+Testing the 658th sample: 
+Not hit
+Testing the 659th sample: 
+Not hit
+Testing the 660th sample: 
+Not hit
+Testing the 661th sample: 
+Not hit
+Testing the 662th sample: 
+Not hit
+Testing the 663th sample: 
+Not hit
+Testing the 664th sample: 
+Not hit
+Testing the 665th sample: 
+Not hit
+Testing the 666th sample: 
+Not hit
+Testing the 667th sample: 
+Not hit
+Testing the 668th sample: 
+Not hit
+Testing the 669th sample: 
+Not hit
+Testing the 670th sample: 
+Not hit
+Testing the 671th sample: 
+Not hit
+Testing the 672th sample: 
+Not hit
+Testing the 673th sample: 
+Not hit
+Testing the 674th sample: 
+Not hit
+Testing the 675th sample: 
+Not hit
+Testing the 676th sample: 
+Not hit
+Testing the 677th sample: 
+Not hit
+Testing the 678th sample: 
+Not hit
+Testing the 679th sample: 
+Not hit
+Testing the 680th sample: 
+Not hit
+Testing the 681th sample: 
+Not hit
+Testing the 682th sample: 
+Not hit
+Testing the 683th sample: 
+Not hit
+Testing the 684th sample: 
+Not hit
+Testing the 685th sample: 
+Not hit
+Testing the 686th sample: 
+Not hit
+Testing the 687th sample: 
+Not hit
+Testing the 688th sample: 
+Not hit
+Testing the 689th sample: 
+Not hit
+Testing the 690th sample: 
+Not hit
+Testing the 691th sample: 
+Not hit
+Testing the 692th sample: 
+Not hit
+Testing the 693th sample: 
+Not hit
+Testing the 694th sample: 
+Not hit
+Testing the 695th sample: 
+Not hit
+Testing the 696th sample: 
+Not hit
+Testing the 697th sample: 
+Not hit
+Testing the 698th sample: 
+Not hit
+Testing the 699th sample: 
+Not hit
+Testing the 700th sample: 
+Not hit
+Testing the 701th sample: 
+Not hit
+Testing the 702th sample: 
+Not hit
+Testing the 703th sample: 
+Not hit
+Testing the 704th sample: 
+Not hit
+Testing the 705th sample: 
+Not hit
+Testing the 706th sample: 
+Not hit
+Testing the 707th sample: 
+Not hit
+Testing the 708th sample: 
+Not hit
+Testing the 709th sample: 
+Not hit
+Testing the 710th sample: 
+Not hit
+Testing the 711th sample: 
+Not hit
+Testing the 712th sample: 
+Not hit
+Testing the 713th sample: 
+Not hit
+Testing the 714th sample: 
+Not hit
+Testing the 715th sample: 
+Not hit
+Testing the 716th sample: 
+Not hit
+Testing the 717th sample: 
+Not hit
+Testing the 718th sample: 
+Not hit
+Testing the 719th sample: 
+Not hit
+Testing the 720th sample: 
+Not hit
+Testing the 721th sample: 
+Not hit
+Testing the 722th sample: 
+Not hit
+Testing the 723th sample: 
+Not hit
+Testing the 724th sample: 
+Not hit
+Testing the 725th sample: 
+Not hit
+Testing the 726th sample: 
+Not hit
+Testing the 727th sample: 
+Not hit
+Testing the 728th sample: 
+Not hit
+Testing the 729th sample: 
+Not hit
+Testing the 730th sample: 
+Not hit
+Testing the 731th sample: 
+Not hit
+Testing the 732th sample: 
+Not hit
+Testing the 733th sample: 
+Not hit
+Testing the 734th sample: 
+Not hit
+Testing the 735th sample: 
+Not hit
+Testing the 736th sample: 
+Not hit
+Testing the 737th sample: 
+Not hit
+Testing the 738th sample: 
+Not hit
+Testing the 739th sample: 
+Not hit
+Testing the 740th sample: 
+Not hit
+Testing the 741th sample: 
+Not hit
+Testing the 742th sample: 
+Not hit
+Testing the 743th sample: 
+Not hit
+Testing the 744th sample: 
+Not hit
+Testing the 745th sample: 
+Not hit
+Testing the 746th sample: 
+Not hit
+Testing the 747th sample: 
+Not hit
+Testing the 748th sample: 
+Not hit
+Testing the 749th sample: 
+Not hit
+Testing the 750th sample: 
+Not hit
+Testing the 751th sample: 
+Not hit
+Testing the 752th sample: 
+Not hit
+Testing the 753th sample: 
+Not hit
+Testing the 754th sample: 
+Not hit
+Testing the 755th sample: 
+Not hit
+Testing the 756th sample: 
+Not hit
+Testing the 757th sample: 
+Not hit
+Testing the 758th sample: 
+Not hit
+Testing the 759th sample: 
+Not hit
+Testing the 760th sample: 
+Not hit
+Testing the 761th sample: 
+Not hit
+Testing the 762th sample: 
+Not hit
+Testing the 763th sample: 
+Not hit
+Testing the 764th sample: 
+Not hit
+Testing the 765th sample: 
+Not hit
+Testing the 766th sample: 
+Not hit
+Testing the 767th sample: 
+Not hit
+Testing the 768th sample: 
+Not hit
+Testing the 769th sample: 
+Not hit
+Testing the 770th sample: 
+Not hit
+Testing the 771th sample: 
+Not hit
+Testing the 772th sample: 
+Not hit
+Testing the 773th sample: 
+Not hit
+Testing the 774th sample: 
+Not hit
+Testing the 775th sample: 
+Not hit
+Testing the 776th sample: 
+Not hit
+Testing the 777th sample: 
+Not hit
+Testing the 778th sample: 
+Not hit
+Testing the 779th sample: 
+Not hit
+Testing the 780th sample: 
+Not hit
+Testing the 781th sample: 
+Not hit
+Testing the 782th sample: 
+Not hit
+Testing the 783th sample: 
+Not hit
+Testing the 784th sample: 
+Not hit
+Testing the 785th sample: 
+Not hit
+Testing the 786th sample: 
+Not hit
+Testing the 787th sample: 
+Not hit
+Testing the 788th sample: 
+Not hit
+Testing the 789th sample: 
+Not hit
+Testing the 790th sample: 
+Not hit
+Testing the 791th sample: 
+Not hit
+Testing the 792th sample: 
+Not hit
+Testing the 793th sample: 
+Not hit
+Testing the 794th sample: 
+Not hit
+Testing the 795th sample: 
+Not hit
+Testing the 796th sample: 
+Not hit
+Testing the 797th sample: 
+Not hit
+Testing the 798th sample: 
+Not hit
+Testing the 799th sample: 
+Not hit
+Testing the 800th sample: 
+Not hit
+Testing the 801th sample: 
+Not hit
+Testing the 802th sample: 
+Not hit
+Testing the 803th sample: 
+Not hit
+Testing the 804th sample: 
+Not hit
+Testing the 805th sample: 
+785.000000
+775.000000
+766.000000
+786.000000
+805.000000
+796.000000
+804.000000
+822.000000
+799.000000
+821.000000
+830.000000
+834.000000
+844.000000
+834.000000
+882.000000
+846.000000
+890.000000
+863.000000
+860.000000
+855.000000
+844.000000
+852.000000
+839.000000
+807.000000
+792.000000
+809.000000
+792.000000
+776.000000
+775.000000
+758.000000
+756.000000
+721.000000
+742.000000
+761.000000
+793.000000
+812.000000
+692.000000
+522.000000
+974.000000
+1091.000000
+850.000000
+639.000000
+439.000000
+436.000000
+647.000000
+845.000000
+904.000000
+839.000000
+732.000000
+685.000000
+689.000000
+755.000000
+820.000000
+794.000000
+745.000000
+645.000000
+627.000000
+750.000000
+928.000000
+808.000000
+767.000000
+798.000000
+813.000000
+820.000000
+814.000000
+803.000000
+820.000000
+819.000000
+820.000000
+856.000000
+867.000000
+823.000000
+824.000000
+801.000000
+814.000000
+819.000000
+838.000000
+830.000000
+834.000000
+862.000000
+885.000000
+891.000000
+932.000000
+906.000000
+904.000000
+915.000000
+951.000000
+987.000000
+1012.000000
+1049.000000
+1038.000000
+1075.000000
+1070.000000
+1081.000000
+1090.000000
+1094.000000
+1117.000000
+1178.000000
+1180.000000
+1192.000000
+72302224.000000
+1196.865845
+Not hit
+Testing the 806th sample: 
+1190.496826
+Not hit
+Testing the 807th sample: 
+1177.544556
+Not hit
+Testing the 808th sample: 
+1159.035278
+Not hit
+Testing the 809th sample: 
+1137.248901
+Not hit
+Testing the 810th sample: 
+1114.519043
+Not hit
+Testing the 811th sample: 
+1093.359375
+Not hit
+Testing the 812th sample: 
+1075.161621
+Not hit
+Testing the 813th sample: 
+1062.494995
+Not hit
+Testing the 814th sample: 
+1055.359497
+Not hit
+Testing the 815th sample: 
+1053.206543
+Not hit
+Testing the 816th sample: 
+1054.807861
+Not hit
+Testing the 817th sample: 
+1058.693726
+Not hit
+Testing the 818th sample: 
+1063.235596
+Not hit
+Testing the 819th sample: 
+1067.828491
+Not hit
+Testing the 820th sample: 
+1071.192505
+Not hit
+Testing the 821th sample: 
+1073.850952
+Not hit
+Testing the 822th sample: 
+1076.608276
+Not hit
+Testing the 823th sample: 
+1080.883789
+Not hit
+Testing the 824th sample: 
+1088.074219
+Not hit
+Testing the 825th sample: 
+1099.459839
+Not hit
+Testing the 826th sample: 
+1115.413940
+Not hit
+Testing the 827th sample: 
+1135.730957
+Not hit
+Testing the 828th sample: 
+1159.215088
+Not hit
+Testing the 829th sample: 
+1183.958008
+Not hit
+Testing the 830th sample: 
+1207.998535
+Not hit
+Testing the 831th sample: 
+1228.879639
+Not hit
+Testing the 832th sample: 
+1245.316040
+Not hit
+Testing the 833th sample: 
+1256.093018
+Not hit
+Testing the 834th sample: 
+1261.351807
+Not hit
+Testing the 835th sample: 
+1261.926392
+Not hit
+Testing the 836th sample: 
+1258.954468
+Not hit
+Testing the 837th sample: 
+1254.361816
+Not hit
+Testing the 838th sample: 
+1250.109863
+Not hit
+Testing the 839th sample: 
+1248.120117
+Not hit
+Testing the 840th sample: 
+1250.022095
+Not hit
+Testing the 841th sample: 
+1256.594360
+Not hit
+Testing the 842th sample: 
+1267.946045
+Not hit
+Testing the 843th sample: 
+1283.640747
+Not hit
+Testing the 844th sample: 
+1303.014893
+Not hit
+Testing the 845th sample: 
+1324.970703
+Not hit
+Testing the 846th sample: 
+1348.716797
+Not hit
+Testing the 847th sample: 
+1373.901001
+Not hit
+Testing the 848th sample: 
+1399.910156
+Not hit
+Testing the 849th sample: 
+1427.093140
+Not hit
+Testing the 850th sample: 
+1455.818848
+Not hit
+Testing the 851th sample: 
+1486.867432
+Not hit
+Testing the 852th sample: 
+1521.016968
+Not hit
+Testing the 853th sample: 
+1558.984619
+Not hit
+Testing the 854th sample: 
+1600.748901
+Not hit
+Testing the 855th sample: 
+1645.866211
+Not hit
+Testing the 856th sample: 
+1693.774902
+Not hit
+Testing the 857th sample: 
+1742.785522
+Not hit
+Testing the 858th sample: 
+1791.286865
+Not hit
+Testing the 859th sample: 
+1836.972900
+Not hit
+Testing the 860th sample: 
+1877.934570
+Not hit
+Testing the 861th sample: 
+1912.053833
+Not hit
+Testing the 862th sample: 
+1937.509155
+Not hit
+Testing the 863th sample: 
+1953.240723
+Not hit
+Testing the 864th sample: 
+1958.780273
+Not hit
+Testing the 865th sample: 
+1954.073486
+Not hit
+Testing the 866th sample: 
+1939.874878
+Not hit
+Testing the 867th sample: 
+1918.035889
+Not hit
+Testing the 868th sample: 
+1890.432739
+Not hit
+Testing the 869th sample: 
+1859.628662
+Not hit
+Testing the 870th sample: 
+1828.286377
+Not hit
+Testing the 871th sample: 
+1798.678833
+Not hit
+Testing the 872th sample: 
+1773.078857
+Not hit
+Testing the 873th sample: 
+1752.874268
+Not hit
+Testing the 874th sample: 
+1739.130371
+Not hit
+Testing the 875th sample: 
+1731.777832
+Not hit
+Testing the 876th sample: 
+1730.303467
+Not hit
+Testing the 877th sample: 
+1733.322144
+Not hit
+Testing the 878th sample: 
+1739.153809
+Not hit
+Testing the 879th sample: 
+1745.866577
+Not hit
+Testing the 880th sample: 
+1751.632080
+Not hit
+Testing the 881th sample: 
+1755.124390
+Not hit
+Testing the 882th sample: 
+1755.437744
+Not hit
+Testing the 883th sample: 
+1752.173584
+Not hit
+Testing the 884th sample: 
+1745.418579
+Not hit
+Testing the 885th sample: 
+1735.757812
+Not hit
+Testing the 886th sample: 
+1723.915894
+Not hit
+Testing the 887th sample: 
+1710.473633
+Not hit
+Testing the 888th sample: 
+1696.309814
+Not hit
+Testing the 889th sample: 
+1681.462158
+Not hit
+Testing the 890th sample: 
+1666.468506
+Not hit
+Testing the 891th sample: 
+1651.330566
+Not hit
+Testing the 892th sample: 
+1636.441895
+Not hit
+Testing the 893th sample: 
+1622.548340
+Not hit
+Testing the 894th sample: 
+1609.870728
+Not hit
+Testing the 895th sample: 
+1598.972656
+Not hit
+Testing the 896th sample: 
+1591.256958
+Not hit
+Testing the 897th sample: 
+1587.738159
+Not hit
+Testing the 898th sample: 
+1588.883545
+Not hit
+Testing the 899th sample: 
+1593.827271
+Not hit
+Testing the 900th sample: 
+1600.816528
+Not hit
+Testing the 901th sample: 
+1608.566772
+Not hit
+Testing the 902th sample: 
+1614.086182
+Not hit
+Testing the 903th sample: 
+1614.731079
+Not hit
+Testing the 904th sample: 
+1607.872070
+Not hit
+Testing the 905th sample: 
+1220.000000
+1215.000000
+1123.000000
+1162.000000
+1148.000000
+1154.000000
+1123.000000
+1095.000000
+1092.000000
+1029.000000
+1017.000000
+1032.000000
+1071.000000
+1074.000000
+1096.000000
+1056.000000
+1027.000000
+1072.000000
+1054.000000
+1080.000000
+1077.000000
+1131.000000
+1108.000000
+1135.000000
+1138.000000
+1174.000000
+1211.000000
+1213.000000
+1225.000000
+1264.000000
+1269.000000
+1274.000000
+1240.000000
+1254.000000
+1224.000000
+1242.000000
+1240.000000
+1261.000000
+1269.000000
+1290.000000
+1289.000000
+1312.000000
+1355.000000
+1370.000000
+1368.000000
+1429.000000
+1464.000000
+1470.000000
+1531.000000
+1560.000000
+1591.000000
+1617.000000
+1696.000000
+1739.000000
+1793.000000
+1809.000000
+1891.000000
+1898.000000
+1980.000000
+1960.000000
+1938.000000
+1898.000000
+1891.000000
+1861.000000
+1998.000000
+1939.000000
+1867.000000
+1744.000000
+1692.000000
+1689.000000
+1708.000000
+1745.000000
+1780.000000
+1812.000000
+1771.000000
+1785.000000
+1669.000000
+1660.000000
+1648.000000
+1731.000000
+1839.000000
+1878.000000
+1806.000000
+1677.000000
+1568.000000
+1586.000000
+1651.000000
+1679.000000
+1689.000000
+1657.000000
+1613.000000
+1557.000000
+1618.000000
+1596.000000
+1590.000000
+1541.000000
+1562.000000
+1571.000000
+1634.000000
+1669.000000
+225090064.000000
+1591.582642
+Not hit
+Testing the 906th sample: 
+1565.207642
+Not hit
+Testing the 907th sample: 
+1529.116699
+Not hit
+Testing the 908th sample: 
+1484.829468
+Not hit
+Testing the 909th sample: 
+1435.088989
+Not hit
+Testing the 910th sample: 
+1382.694214
+Not hit
+Testing the 911th sample: 
+1330.294922
+Not hit
+Testing the 912th sample: 
+1279.917847
+Not hit
+Testing the 913th sample: 
+1233.004761
+Not hit
+Testing the 914th sample: 
+1189.783691
+Not hit
+Testing the 915th sample: 
+1149.562012
+Not hit
+Testing the 916th sample: 
+1111.179321
+Not hit
+Testing the 917th sample: 
+1073.551025
+Not hit
+Testing the 918th sample: 
+1034.770142
+Not hit
+Testing the 919th sample: 
+994.599060
+Not hit
+Testing the 920th sample: 
+952.279846
+Not hit
+Testing the 921th sample: 
+908.262878
+Not hit
+Testing the 922th sample: 
+862.243469
+Not hit
+Testing the 923th sample: 
+814.750427
+Not hit
+Testing the 924th sample: 
+765.423096
+Not hit
+Testing the 925th sample: 
+714.438843
+Not hit
+Testing the 926th sample: 
+661.188538
+Not hit
+Testing the 927th sample: 
+605.789429
+Not hit
+Testing the 928th sample: 
+548.154358
+Not hit
+Testing the 929th sample: 
+488.018555
+Not hit
+Testing the 930th sample: 
+436.546722
+Not hit
+Testing the 931th sample: 
+353.293884
+Not hit
+Testing the 932th sample: 
+314.539032
+Not hit
+Testing the 933th sample: 
+279.001404
+Not hit
+Testing the 934th sample: 
+253.284485
+Not hit
+Testing the 935th sample: 
+220.835861
+Not hit
+Testing the 936th sample: 
+184.639343
+Not hit
+Testing the 937th sample: 
+162.625641
+Not hit
+Testing the 938th sample: 
+159.207886
+Not hit
+Testing the 939th sample: 
+166.394699
+Not hit
+Testing the 940th sample: 
+177.843292
+Not hit
+Testing the 941th sample: 
+216.205017
+Not hit
+Testing the 942th sample: 
+253.586319
+Not hit
+Testing the 943th sample: 
+293.682556
+Not hit
+Testing the 944th sample: 
+330.508911
+Not hit
+Testing the 945th sample: 
+360.476196
+Not hit
+Testing the 946th sample: 
+388.257416
+Not hit
+Testing the 947th sample: 
+411.064178
+Not hit
+Testing the 948th sample: 
+433.371582
+Not hit
+Testing the 949th sample: 
+463.932465
+Not hit
+Testing the 950th sample: 
+505.695801
+Not hit
+Testing the 951th sample: 
+565.539612
+Not hit
+Testing the 952th sample: 
+646.045105
+Not hit
+Testing the 953th sample: 
+741.944031
+Not hit
+Testing the 954th sample: 
+845.221375
+Not hit
+Testing the 955th sample: 
+942.944458
+Not hit
+Testing the 956th sample: 
+1023.418945
+Not hit
+Testing the 957th sample: 
+1077.405640
+Not hit
+Testing the 958th sample: 
+1105.006592
+Not hit
+Testing the 959th sample: 
+1113.949707
+Not hit
+Testing the 960th sample: 
+1118.844482
+Not hit
+Testing the 961th sample: 
+1137.610229
+Not hit
+Testing the 962th sample: 
+1185.775146
+Not hit
+Testing the 963th sample: 
+1270.792114
+Not hit
+Testing the 964th sample: 
+1390.111450
+Not hit
+Testing the 965th sample: 
+1528.674316
+Not hit
+Testing the 966th sample: 
+1662.199341
+Not hit
+Testing the 967th sample: 
+1763.360962
+Not hit
+Testing the 968th sample: 
+1809.604492
+Not hit
+Testing the 969th sample: 
+1788.947266
+Not hit
+Testing the 970th sample: 
+1705.631348
+Not hit
+Testing the 971th sample: 
+1579.992798
+Not hit
+Testing the 972th sample: 
+1445.014160
+Not hit
+Testing the 973th sample: 
+1337.459595
+Not hit
+Testing the 974th sample: 
+1288.602783
+Not hit
+Testing the 975th sample: 
+1315.308838
+Not hit
+Testing the 976th sample: 
+1414.151611
+Not hit
+Testing the 977th sample: 
+1561.065552
+Not hit
+Testing the 978th sample: 
+1716.097412
+Not hit
+Testing the 979th sample: 
+1833.393066
+Not hit
+Testing the 980th sample: 
+1873.208496
+Not hit
+Testing the 981th sample: 
+1812.683105
+Hit
+Testing the 982th sample: 
+1653.080811
+Hit
+Testing the 983th sample: 
+1421.161987
+Hit
+Testing the 984th sample: 
+1163.166382
+Hit
+Testing the 985th sample: 
+935.079895
+Hit
+Testing the 986th sample: 
+788.785278
+Hit
+Testing the 987th sample: 
+759.143555
+Hit
+Testing the 988th sample: 
+856.438171
+Hit
+Testing the 989th sample: 
+1063.575317
+Hit
+Testing the 990th sample: 
+1340.633301
+Hit
+Testing the 991th sample: 
+1635.285645
+Hit
+Testing the 992th sample: 
+1894.596191
+Hit
+Testing the 993th sample: 
+2078.809814
+Hit
+Testing the 994th sample: 
+2170.194580
+Hit
+Testing the 995th sample: 
+2174.355225
+Hit
+Testing the 996th sample: 
+2118.138672
+Hit
+Testing the 997th sample: 
+2041.218018
+Hit
+Testing the 998th sample: 
+1985.278198
+Hit
+Testing the 999th sample: 
+1983.608765
+Hit
+Testing the 1000th sample: 
+2051.579102
+Hit
+Testing the 1001th sample: 
+2185.001465
+Hit
+Testing the 1002th sample: 
+2361.843018
+Hit
+Testing the 1003th sample: 
+2550.085938
+Hit
+Testing the 1004th sample: 
+2714.746582
+Hit
+Testing the 1005th sample: 
+2829.335693
+Hit
+Testing the 1006th sample: 
+2879.298584
+Hit
+Testing the 1007th sample: 
+2865.402832
+Hit
+Testing the 1008th sample: 
+2802.513916
+Hit
+Testing the 1009th sample: 
+2713.077148
+Hit
+Testing the 1010th sample: 
+2621.434082
+Hit
+Testing the 1011th sample: 
+2546.797852
+Hit
+Testing the 1012th sample: 
+2499.242432
+Hit
+Testing the 1013th sample: 
+2478.547119
+Hit
+Testing the 1014th sample: 
+2475.459961
+Hit
+Testing the 1015th sample: 
+2476.157227
+Hit
+Testing the 1016th sample: 
+2466.731689
+Hit
+Testing the 1017th sample: 
+2437.274414
+Hit
+Testing the 1018th sample: 
+2384.313232
+Hit
+Testing the 1019th sample: 
+2311.920166
+Hit
+Testing the 1020th sample: 
+2228.549316
+Hit
+Testing the 1021th sample: 
+2145.622314
+Hit
+Testing the 1022th sample: 
+2072.421387
+Hit
+Testing the 1023th sample: 
+2014.865356
+Hit
+Testing the 1024th sample: 
+1973.114136
+Hit
+Testing the 1025th sample: 
+1943.039062
+Hit
+Testing the 1026th sample: 
+1916.639160
+Hit
+Testing the 1027th sample: 
+1885.784790
+Hit
+Testing the 1028th sample: 
+1848.393555
+Hit
+Testing the 1029th sample: 
+1774.837646
+Hit
+Testing the 1030th sample: 
+1728.480347
+Hit
+Testing the 1031th sample: 
+1653.058472
+Hit
+Testing the 1032th sample: 
+1570.447021
+Hit
+Testing the 1033th sample: 
+1482.406860
+Hit
+Testing the 1034th sample: 
+1408.157593
+Hit
+Testing the 1035th sample: 
+1360.141602
+Hit
+Testing the 1036th sample: 
+1325.705322
+Hit
+Testing the 1037th sample: 
+1288.791626
+Hit
+Testing the 1038th sample: 
+1247.141968
+Hit
+Testing the 1039th sample: 
+1217.907593
+Hit
+Testing the 1040th sample: 
+1175.635132
+Hit
+Testing the 1041th sample: 
+1136.278198
+Hit
+Testing the 1042th sample: 
+1099.586670
+Hit
+Testing the 1043th sample: 
+1065.736084
+Hit
+Testing the 1044th sample: 
+1037.735596
+Hit
+Testing the 1045th sample: 
+1008.626160
+Hit
+Testing the 1046th sample: 
+980.304932
+Hit
+Testing the 1047th sample: 
+955.455505
+Hit
+Testing the 1048th sample: 
+931.499023
+Hit
+Testing the 1049th sample: 
+910.944946
+Hit
+Testing the 1050th sample: 
+892.719299
+Hit
+Testing the 1051th sample: 
+872.980591
+Hit
+Testing the 1052th sample: 
+851.327820
+Hit
+Testing the 1053th sample: 
+827.091797
+Hit
+Testing the 1054th sample: 
+802.957581
+Hit
+Testing the 1055th sample: 
+781.318237
+Hit
+Testing the 1056th sample: 
+766.665100
+Hit
+Testing the 1057th sample: 
+760.479431
+Hit
+Testing the 1058th sample: 
+762.437134
+Hit
+Testing the 1059th sample: 
+770.004517
+Hit
+Testing the 1060th sample: 
+779.096985
+Hit
+Testing the 1061th sample: 
+785.162598
+Hit
+Testing the 1062th sample: 
+785.055664
+Hit
+Testing the 1063th sample: 
+776.068970
+Hit
+Testing the 1064th sample: 
+757.730774
+Hit
+Testing the 1065th sample: 
+731.693359
+Hit
+Testing the 1066th sample: 
+700.996826
+Hit
+Testing the 1067th sample: 
+668.974365
+Hit
+Testing the 1068th sample: 
+639.331543
+Hit
+Testing the 1069th sample: 
+614.769531
+Hit
+Testing the 1070th sample: 
+596.679932
+Hit
+Testing the 1071th sample: 
+584.512451
+Hit
+Testing the 1072th sample: 
+576.828064
+Hit
+Testing the 1073th sample: 
+570.748535
+Hit
+Testing the 1074th sample: 
+563.432068
+Hit
+Testing the 1075th sample: 
+552.329712
+Hit
+Testing the 1076th sample: 
+535.483765
+Hit
+Testing the 1077th sample: 
+512.499939
+Hit
+Testing the 1078th sample: 
+484.012299
+Hit
+Testing the 1079th sample: 
+451.509979
+Hit
+Testing the 1080th sample: 
+416.930237
+Hit
+Testing the 1081th sample: 
+382.162231
+Hit
+Testing the 1082th sample: 
+348.298462
+Hit
+Testing the 1083th sample: 
+316.389465
+Hit
+Testing the 1084th sample: 
+286.504089
+Hit
+Testing the 1085th sample: 
+258.558960
+Hit
+Testing the 1086th sample: 
+232.282333
+Hit
+Testing the 1087th sample: 
+208.101746
+Hit
+Testing the 1088th sample: 
+186.262314
+Hit
+Testing the 1089th sample: 
+167.581802
+Hit
+Testing the 1090th sample: 
+152.538376
+Hit
+Testing the 1091th sample: 
+141.572144
+Not hit
+Testing the 1092th sample: 
+135.020218
+Not hit
+Testing the 1093th sample: 
+132.199631
+Not hit
+Testing the 1094th sample: 
+132.349686
+Not hit
+Testing the 1095th sample: 
+134.607483
+Not hit
+Testing the 1096th sample: 
+137.876236
+Not hit
+Testing the 1097th sample: 
+141.287598
+Not hit
+Testing the 1098th sample: 
+144.492386
+Not hit
+Testing the 1099th sample: 
+147.193024
+Not hit
+Testing the 1100th sample: 
+149.611191
+Not hit
+Testing the 1101th sample: 
+152.506805
+Not hit
+Testing the 1102th sample: 
+155.552200
+Not hit
+Testing the 1103th sample: 
+159.909637
+Not hit
+Testing the 1104th sample: 
+164.932800
+Not hit
+Testing the 1105th sample: 
+169.970047
+Not hit
+Testing the 1106th sample: 
+175.141037
+Not hit
+Testing the 1107th sample: 
+179.880783
+Not hit
+Testing the 1108th sample: 
+184.034027
+Not hit
+Testing the 1109th sample: 
+187.811035
+Not hit
+Testing the 1110th sample: 
+192.119446
+Not hit
+Testing the 1111th sample: 
+198.054932
+Not hit
+Testing the 1112th sample: 
+206.273849
+Not hit
+Testing the 1113th sample: 
+217.838379
+Not hit
+Testing the 1114th sample: 
+232.926315
+Not hit
+Testing the 1115th sample: 
+Not hit
+Testing the 1116th sample: 
+Not hit
+Testing the 1117th sample: 
+Not hit
+Testing the 1118th sample: 
+Not hit
+Testing the 1119th sample: 
+Not hit
+Testing the 1120th sample: 
+Not hit
+Testing the 1121th sample: 
+Not hit
+Testing the 1122th sample: 
+Not hit
+Testing the 1123th sample: 
+Not hit
+Testing the 1124th sample: 
+Not hit
+Testing the 1125th sample: 
+Not hit
+Testing the 1126th sample: 
+Not hit
+Testing the 1127th sample: 
+Not hit
+Testing the 1128th sample: 
+Not hit
+Testing the 1129th sample: 
+Not hit
+Testing the 1130th sample: 
+Not hit
+Testing the 1131th sample: 
+Not hit
+Testing the 1132th sample: 
+Not hit
+Testing the 1133th sample: 
+Not hit
+Testing the 1134th sample: 
+Not hit
+Testing the 1135th sample: 
+Not hit
+Testing the 1136th sample: 
+Not hit
+Testing the 1137th sample: 
+Not hit
+Testing the 1138th sample: 
+Not hit
+Testing the 1139th sample: 
+Not hit
+Testing the 1140th sample: 
+Not hit
+Testing the 1141th sample: 
+Not hit
+Testing the 1142th sample: 
+Not hit
+Testing the 1143th sample: 
+Not hit
+Testing the 1144th sample: 
+Not hit
+Testing the 1145th sample: 
+Not hit
+Testing the 1146th sample: 
+Not hit
+Testing the 1147th sample: 
+Not hit
+Testing the 1148th sample: 
+Not hit
+Testing the 1149th sample: 
+Not hit
+Testing the 1150th sample: 
+Not hit
+Testing the 1151th sample: 
+Not hit
+Testing the 1152th sample: 
+Not hit
+Testing the 1153th sample: 
+967.000000
+771.000000
+815.000000
+845.000000
+723.000000
+678.000000
+721.000000
+766.000000
+797.000000
+788.000000
+836.000000
+773.000000
+724.000000
+729.000000
+708.000000
+667.000000
+637.000000
+575.000000
+547.000000
+567.000000
+581.000000
+610.000000
+608.000000
+579.000000
+526.000000
+459.000000
+440.000000
+418.000000
+429.000000
+393.000000
+364.000000
+324.000000
+279.000000
+261.000000
+221.000000
+203.000000
+188.000000
+171.000000
+123.000000
+143.000000
+117.000000
+133.000000
+135.000000
+126.000000
+156.000000
+145.000000
+145.000000
+145.000000
+135.000000
+141.000000
+136.000000
+157.000000
+146.000000
+189.000000
+177.000000
+203.000000
+188.000000
+181.000000
+164.000000
+178.000000
+197.000000
+207.000000
+255.000000
+264.000000
+273.000000
+271.000000
+311.000000
+318.000000
+296.000000
+344.000000
+344.000000
+347.000000
+355.000000
+321.000000
+322.000000
+317.000000
+333.000000
+345.000000
+384.000000
+380.000000
+406.000000
+398.000000
+434.000000
+422.000000
+444.000000
+471.000000
+518.000000
+517.000000
+505.000000
+549.000000
+578.000000
+587.000000
+632.000000
+644.000000
+661.000000
+716.000000
+718.000000
+729.000000
+748.000000
+774.000000
+23391668.000000
+790.976379
+Not hit
+Testing the 1154th sample: 
+811.101196
+Not hit
+Testing the 1155th sample: 
+831.839966
+Not hit
+Testing the 1156th sample: 
+851.221130
+Not hit
+Testing the 1157th sample: 
+866.958435
+Not hit
+Testing the 1158th sample: 
+877.722595
+Not hit
+Testing the 1159th sample: 
+883.517029
+Not hit
+Testing the 1160th sample: 
+885.750549
+Not hit
+Testing the 1161th sample: 
+887.343384
+Not hit
+Testing the 1162th sample: 
+891.613037
+Not hit
+Testing the 1163th sample: 
+902.426331
+Not hit
+Testing the 1164th sample: 
+921.930542
+Not hit
+Testing the 1165th sample: 
+951.074524
+Not hit
+Testing the 1166th sample: 
+988.651367
+Not hit
+Testing the 1167th sample: 
+1031.670166
+Not hit
+Testing the 1168th sample: 
+1075.672607
+Not hit
+Testing the 1169th sample: 
+1116.432983
+Not hit
+Testing the 1170th sample: 
+1150.523682
+Not hit
+Testing the 1171th sample: 
+1175.921021
+Not hit
+Testing the 1172th sample: 
+1192.947266
+Not hit
+Testing the 1173th sample: 
+1203.759888
+Not hit
+Testing the 1174th sample: 
+1211.669312
+Not hit
+Testing the 1175th sample: 
+1220.302490
+Not hit
+Testing the 1176th sample: 
+1232.432373
+Not hit
+Testing the 1177th sample: 
+1249.475464
+Not hit
+Testing the 1178th sample: 
+1270.988281
+Not hit
+Testing the 1179th sample: 
+1295.157959
+Not hit
+Testing the 1180th sample: 
+1318.950562
+Not hit
+Testing the 1181th sample: 
+1339.789062
+Not hit
+Testing the 1182th sample: 
+1355.536743
+Not hit
+Testing the 1183th sample: 
+1365.834961
+Not hit
+Testing the 1184th sample: 
+1371.879028
+Not hit
+Testing the 1185th sample: 
+1376.276978
+Not hit
+Testing the 1186th sample: 
+1382.520874
+Not hit
+Testing the 1187th sample: 
+1393.909180
+Not hit
+Testing the 1188th sample: 
+1412.714355
+Not hit
+Testing the 1189th sample: 
+1440.205811
+Not hit
+Testing the 1190th sample: 
+1475.703613
+Not hit
+Testing the 1191th sample: 
+1517.246948
+Not hit
+Testing the 1192th sample: 
+1562.056641
+Not hit
+Testing the 1193th sample: 
+1607.502197
+Not hit
+Testing the 1194th sample: 
+1651.074585
+Not hit
+Testing the 1195th sample: 
+1691.287231
+Not hit
+Testing the 1196th sample: 
+1727.449463
+Not hit
+Testing the 1197th sample: 
+1759.674072
+Not hit
+Testing the 1198th sample: 
+1788.502686
+Not hit
+Testing the 1199th sample: 
+1814.734009
+Not hit
+Testing the 1200th sample: 
+1838.875854
+Not hit
+total time : 0.001570

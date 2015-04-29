@@ -1,0 +1,32 @@
+IsHit.c:208:25: error: expected ')'
+    if (detect_count == WAITLENGTH && high_flag) {
+                        ^
+./IsHit.h:3:23: note: expanded from macro 'WAITLENGTH'
+#define WAITLENGTH 100;
+                      ^
+IsHit.c:208:8: note: to match this '('
+    if (detect_count == WAITLENGTH && high_flag) {
+       ^
+IsHit.c:208:25: warning: if statement has empty body [-Wempty-body]
+    if (detect_count == WAITLENGTH && high_flag) {
+                        ^
+./IsHit.h:3:23: note: expanded from macro 'WAITLENGTH'
+#define WAITLENGTH 100;
+                      ^
+IsHit.c:208:25: note: put the semicolon on a separate line to silence this warning
+./IsHit.h:3:23: note: expanded from macro 'WAITLENGTH'
+#define WAITLENGTH 100;
+                      ^
+IsHit.c:208:48: error: expected ';' after expression
+    if (detect_count == WAITLENGTH && high_flag) {
+                                               ^
+                                               ;
+IsHit.c:208:48: error: expected expression
+IsHit.c:208:36: warning: expression result unused [-Wunused-value]
+    if (detect_count == WAITLENGTH && high_flag) {
+                                   ^~~~~~~~~~~~
+IsHit.c:208:39: error: use of undeclared label 'high_flag'
+    if (detect_count == WAITLENGTH && high_flag) {
+                                      ^
+2 warnings and 4 errors generated.
+make: *** [IsHit.o] Error 1
